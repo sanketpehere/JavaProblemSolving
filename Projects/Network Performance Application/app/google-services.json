@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "312416990653",
+    "project_id": "networkapplication-c3790",
+    "storage_bucket": "networkapplication-c3790.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:312416990653:android:b45cc581de956b21f78ed4",
+        "android_client_info": {
+          "package_name": "com.example.myapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOh9ZKVwrnFeTzLHQ3vIT-f9EDS8i9Ev4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:312416990653:android:a58b5d242c0304a6f78ed4",
+        "android_client_info": {
+          "package_name": "com.example.networkapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOh9ZKVwrnFeTzLHQ3vIT-f9EDS8i9Ev4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
